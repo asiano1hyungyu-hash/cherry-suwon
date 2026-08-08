@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://cherrysuwon.yongincherry.workers.dev/sitemap.xml
+RSS: https://cherrysuwon.yongincherry.workers.dev/rss.xml
+Host: cherrysuwon.yongincherry.workers.dev
